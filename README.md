@@ -1,2 +1,3 @@
-# YOLO-object-detection
-Configuration to use YOLO (You Only Look Once) algorithm
+# Artificial Intelligence projects
+
+Some projects with AI
